@@ -1,0 +1,20 @@
+{
+  "name": "bonish-js",
+  "version": "1.1.0",
+  "description": "I am bonish",
+  "main": "bonish.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Bonish"
+  ],
+  "author": " <Anjal Bam: anjalbam81@gmail.com>",
+  "bin": {
+    "bonish": "./bonish"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "terser": "^5.19.4"
+  }
+}
