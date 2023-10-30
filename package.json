@@ -15,6 +15,7 @@
   },
   "license": "ISC",
   "dependencies": {
+    "bonish-js": "^1.1.1",
     "terser": "^5.19.4"
   }
 }
