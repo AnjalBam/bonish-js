@@ -6,7 +6,7 @@
 ### Usage
 
 ##### Step 1:
-Make sure Node.js and Npm is installed. If not [visit here.](https://google.com)
+Make sure Node.js and Npm is installed. If not [visit here.](https://nodejs.org/en/download)
 To verify:
 ```
 node --version
